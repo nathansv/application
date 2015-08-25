@@ -1,3 +1,3 @@
-package "yum install mysql-server" do
+package mysql
 action :install
 end
