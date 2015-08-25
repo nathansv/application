@@ -1,3 +1,3 @@
-package mysql
+package "mysql"
 action :install
 end
