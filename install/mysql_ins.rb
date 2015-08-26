@@ -1,4 +1,4 @@
 command 'yum install nagios' do 
-	action :run
+	action :install
 end
 
