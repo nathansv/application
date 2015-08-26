@@ -1,5 +1,5 @@
 directory '/home/vaithiyanathan/MyfirstFolder' do
 	owner 'root'
-	permission '777'
+	mode '777'
 	
 end
