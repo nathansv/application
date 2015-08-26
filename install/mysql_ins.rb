@@ -1,4 +1,3 @@
-command 'yum install nagios' do 
-	action :install
+yum_package 's3cmd' do
+  action 'install'
 end
-
