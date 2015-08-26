@@ -1,3 +1,3 @@
-yum_package 's3cmd' do
+yum_package 'php' do
   action 'install'
 end
