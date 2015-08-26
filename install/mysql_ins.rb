@@ -1,4 +1,4 @@
-mysql_chef_gem 'default' do
-  action :install
+command 'yum install nagios' do 
+	action :run
 end
 
