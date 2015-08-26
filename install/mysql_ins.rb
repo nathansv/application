@@ -1,4 +1,4 @@
-package 'yum install mysql' do 
+package 'yum install nagios' do 
 	action :install	
 end
 
